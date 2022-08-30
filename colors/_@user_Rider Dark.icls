@@ -4,10 +4,10 @@
     <property name="created">2022-08-30T15:09:17</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-08-30T17:29:30</property>
+    <property name="modified">2022-08-30T18:40:30</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="26" />
-  <option name="EDITOR_FONT_NAME" value="Comic Sans MS" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Times New Roman" />
 </scheme>
