@@ -2,7 +2,6 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
-        <entry key="docker.connect.automatically" value="false" />
         <entry key="se.text.search" value="true" />
       </map>
     </option>
