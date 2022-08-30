@@ -29,6 +29,7 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
     <keyboard-shortcut first-keystroke="alt f7" />
+    <mouse-shortcut keystroke="shift control button5" />
   </action>
   <action id="GotoBookmark0">
     <keyboard-shortcut first-keystroke="ctrl 0" />
